@@ -1,4 +1,4 @@
-module sagooiot
+module github.com/jiangweipro/sagooiot
 
 go 1.21
 
